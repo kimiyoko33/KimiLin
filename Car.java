@@ -1,5 +1,7 @@
 public class Car {
+//xx
 	private int numberOfWheels = 4;
+	private String brand;
 	private Engine engine;
 
 	public Car(Engine engine) {
