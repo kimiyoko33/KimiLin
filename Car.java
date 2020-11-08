@@ -4,6 +4,7 @@ public class Car {
 	private String brand;
 	private double horsepower;
 	private Engine engine;
+	private double weight
 
 	public Car(Engine engine) {
 		this.engine = engine;
