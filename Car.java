@@ -4,9 +4,5 @@ public class Car {
 	}
 // test1
 // test2
-<<<<<<< HEAD
-=======
 // cattest1
->>>>>>> cat
-
 }
