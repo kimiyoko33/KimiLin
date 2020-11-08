@@ -1,10 +1,9 @@
 public class Car {
-//xx
+
 	private int numberOfWheels = 4;
-	private String brand;
-	private double horsepower;
 	private Engine engine;
-	private double weight
+	
+	
 
 	public Car(Engine engine) {
 		this.engine = engine;
